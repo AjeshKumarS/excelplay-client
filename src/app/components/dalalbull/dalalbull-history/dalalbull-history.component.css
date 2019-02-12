@@ -1,0 +1,28 @@
+table {
+    font-size: 30px;
+    color: #b9b9b9;
+  }
+  .nav-tabs {
+    margin-bottom: 1em;
+    border-bottom: 0px;
+    float: right;
+    font-size: 1.4em;
+    padding: .3em;
+  }
+  .nav-tabs li.active a {
+    color: dimgrey;
+  }
+  .nav-tabs li.active a:hover {
+    background: white !important;
+  }
+  .nav-tabs li a {
+    border-radius: 0;
+    border: 1px solid white;
+    color: white;
+    padding: .3em;
+  }
+  .nav-tabs li a:hover {
+    background: white;
+    color: black;
+  }
+  
